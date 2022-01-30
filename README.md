@@ -12,3 +12,4 @@ Blink LED : https://github.com/1222-takeshi/ESP32-platformio-demo/tree/main/proj
 
 OTA : https://github.com/1222-takeshi/ESP32-platformio-demo/tree/main/projects/esp32-OTA
 # Blog
+- https://www.takeshi-1222.com/entry/esp32-vscode-platformio-demo
