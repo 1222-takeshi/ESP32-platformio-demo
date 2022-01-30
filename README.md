@@ -2,7 +2,7 @@
 # Description 
 This project is a sample project for developing with ESP32 using vscode + platformio.
 
-# Required
+# Requirement
 - vscode
 - Platformio
 - ESP32-dev Board
